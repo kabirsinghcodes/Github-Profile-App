@@ -10,9 +10,8 @@
 <br/>
 <br/>
 
-![WhatsApp Image 2021-06-09 at 11 46 59 PM (1)](https://user-images.githubusercontent.com/69685373/121414578-69a1a780-c984-11eb-9129-f06e0e9461ca.jpeg)
 
-
+<img src="https://user-images.githubusercontent.com/69685373/121414578-69a1a780-c984-11eb-9129-f06e0e9461ca.jpeg" width="100" height="100">
 
 
 
