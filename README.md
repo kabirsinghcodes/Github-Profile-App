@@ -11,7 +11,7 @@
 <br/>
 
 
-<img src="https://user-images.githubusercontent.com/69685373/121414578-69a1a780-c984-11eb-9129-f06e0e9461ca.jpeg" width="300" height="700">
+<img src="https://user-images.githubusercontent.com/69685373/121414578-69a1a780-c984-11eb-9129-f06e0e9461ca.jpeg" width="300" height="700" align="center">
 
 
 
@@ -27,14 +27,16 @@
 <br/>
 <br/>
 
-![WhatsApp Image 2021-06-09 at 11 46 58 PM](https://user-images.githubusercontent.com/69685373/121413950-d5cfdb80-c983-11eb-84ed-44ed6b330491.jpeg)!
+<img src="https://user-images.githubusercontent.com/69685373/121413950-d5cfdb80-c983-11eb-84ed-44ed6b330491.jpeg" width="300" height="700" align="center">
+
 
 
 ####  About ME Page 
 <br/>
 <br/>
 
-![WhatsApp Image 2021-06-09 at 11 46 58 PM (1)](https://user-images.githubusercontent.com/69685373/121413821-b20c9580-c983-11eb-9b31-323e9bc911ce.jpeg)
+<img src="https://user-images.githubusercontent.com/69685373/121413821-b20c9580-c983-11eb-9b31-323e9bc911ce.jpeg" width="300" height="700" align="center">
+
 
 
 
@@ -42,8 +44,12 @@
 <br/>
 <br/>
 
-![WhatsApp Image 2021-06-09 at 11 46 59 PM](https://user-images.githubusercontent.com/69685373/121413688-90aba980-c983-11eb-8639-9def04b27280.jpeg)
+<img src="https://user-images.githubusercontent.com/69685373/121413688-90aba980-c983-11eb-8639-9def04b27280.jpeg" width="300" height="700" align="center">
 
+<br/>
+<br/>
+
+# I hope you liked the project ! Star Fork if you want to save it for future reference !! ✨
 
 
 
