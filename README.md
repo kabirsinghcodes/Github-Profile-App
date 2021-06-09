@@ -7,6 +7,9 @@
 - If you are intrigued to find about me do press the About me button and you will be redirected to a page that has my contact information !!
 
 -Home Page 🎊
+<br/>
+<br/>
+
 ![WhatsApp Image 2021-06-09 at 11 46 59 PM (1)](https://user-images.githubusercontent.com/69685373/121414578-69a1a780-c984-11eb-9129-f06e0e9461ca.jpeg)
 
 
@@ -22,27 +25,24 @@
 ## This is how it looks 🍀
 
 #### Search Kabir Singh ✨
-<br>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+
 ![WhatsApp Image 2021-06-09 at 11 46 58 PM](https://user-images.githubusercontent.com/69685373/121413950-d5cfdb80-c983-11eb-84ed-44ed6b330491.jpeg)!
 
 
 ####  About ME Page 
-<br>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+
 ![WhatsApp Image 2021-06-09 at 11 46 58 PM (1)](https://user-images.githubusercontent.com/69685373/121413821-b20c9580-c983-11eb-9b31-323e9bc911ce.jpeg)
 
 
 
 #### Seacrh any username ❓
-<br>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+
 ![WhatsApp Image 2021-06-09 at 11 46 59 PM](https://user-images.githubusercontent.com/69685373/121413688-90aba980-c983-11eb-8639-9def04b27280.jpeg)
 
 
