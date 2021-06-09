@@ -19,7 +19,7 @@
 - The app is build using Flutter and Dart languages and the Github API is used for obtaining the information from GITHUB 📁
 
 ## How can you use it ?? 🔔
-- Clone the project and run it on your device to see the functioning of it.
+- Clone the project and run it on your device to see the functioning.
 
 ## This is how it looks 🍀
 
